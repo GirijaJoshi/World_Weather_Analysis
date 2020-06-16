@@ -6,8 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
-# igonre files
+# ignore files
 config.py
+# Adding additional files
+API_practice.ipynb
+random_numbers.ipynb
 
 # Distribution / packaging
 .Python
