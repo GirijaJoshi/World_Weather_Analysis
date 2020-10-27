@@ -1,7 +1,5 @@
 # World_Weather_Analysis
-Find the best cities to vacation using weather.
-# Module 6 Challenge
-This challenge has 3 parts.
+Find the best cities to vacation using weather using weather map API and mapbox.
 
 ### Part 1: Get the Weather Description and Amount of Precipitation for Each City
 * We used numpy random function to get 1500 latitude and longitude upper and lower limit was defied by latitude and longitudes uppper and lower limit.
